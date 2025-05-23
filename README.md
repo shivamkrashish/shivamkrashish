@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding animation" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Shivam Kumar Ashish</h1>
 <p align="center">A passionate Full Stack Developer from India</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding animation" width="40%" />
+</p>
 
 ---
 
