@@ -35,7 +35,6 @@
 - 🔹 [Tic Tac Toe Game](https://github.com/shivamkrashish/Tic-Tac-Toe-Game) – Classic game with full UI and win logic.
 
 ---
-
 ## 📌 Roles & Achievements
 
 - 🧠 Conducted **Python & Web Dev Workshop** in college (April 15–20)
