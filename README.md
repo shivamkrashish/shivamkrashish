@@ -43,7 +43,6 @@
 - ✅ Built and deployed real-time AI-based web apps
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
