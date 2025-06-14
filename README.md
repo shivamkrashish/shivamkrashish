@@ -30,7 +30,7 @@
 ## 🚀 Projects
 
 - 🔹 [Smart-AI-Bot](https://github.com/shivamkrashish/Smart-AI-Bot) – ChatGPT-like AI bot using Google’s Gemini API and React.
-- 🔹 RailNXT(https://github.com/shivamkrashish/RailNXT.git) – Real-time train tracking app with voice search and Google Maps integration.
+- 🔹 [RailNXT](https://github.com/shivamkrashish/RailNXT.git) – Real-time train tracking app with voice search and Google Maps integration.
 - 🔹 [Weather App](https://github.com/shivamkrashish/Weather-App) – Real-time weather updates using API integration.
 - 🔹 [Tic Tac Toe Game](https://github.com/shivamkrashish/Tic-Tac-Toe-Game) – Classic game with full UI and win logic.
 
