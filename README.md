@@ -25,15 +25,69 @@
 </p>
 
 ---
-
 ## 🚀 Projects
 
-- 🔹 [Smart-AI-Bot](https://github.com/shivamkrashish/Smart-AI-Bot) – ChatGPT-like AI bot using Google’s Gemini API and React.
-- 🔹 [RailNXT](https://github.com/shivamkrashish/RailNXT.git) – Real-time train tracking app with voice search and Google Maps integration.
-- 🔹 [Weather App](https://github.com/shivamkrashish/Weather-App) – Real-time weather updates using API integration.
-- 🔹 [Tic Tac Toe Game](https://github.com/shivamkrashish/Tic-Tac-Toe-Game) – Classic game with full UI and win logic.
+### 🌟 Featured Projects
+
+#### 🔹 [AutoHireX – Car Rental & Admin Dashboard System](https://github.com/shivamkrashish/AutoHireX)
+📅 Oct 2025 – Nov 2025  
+- Developed a full-stack car rental platform enabling users to browse cars, select pickup locations, and book vehicles securely.  
+- Implemented JWT-based authentication for secure login, signup, and protected routes.  
+- Built a complete booking workflow with availability checks, confirmations, and user dashboard.  
+- Designed an Admin Dashboard to manage cars, inventory, and bookings efficiently.  
+- Integrated ImageKit for optimized image delivery and real-time transformations.  
+- Ensured responsive, scalable, and production-ready design.  
+
+🛠️ **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js), JWT, Tailwind CSS, ImageKit  
 
 ---
+#### 🔹 [Smart AI Bot – Intelligent Chat Assistant](https://github.com/shivamkrashish/Smart-AI-Bot)
+📅 Mar 2025  
+- Developed an AI chatbot with real-time conversation and response simulation.  
+- Built modular and scalable React components for maintainability.  
+- Designed interactive chat UI with instant response rendering.  
+
+🛠️ **Tech Stack:** React.js, JavaScript, CSS, REST API  
+
+---
+#### 🔹 [RailNXT – Smart Indian Railway System](https://github.com/shivamkrashish/RailNXT)
+📅 Oct 2024 – Nov 2024  
+- Built a responsive railway web app with route finder and delay prediction.  
+- Integrated AI chatbot and voice-enabled booking system.  
+- Implemented real-time search with station auto-complete and filters.  
+
+🛠️ **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS  
+
+---
+#### 🔹 [Pixify Gallery – Modern Image Gallery](https://github.com/shivamkrashish/pixify-gallery)
+📅 2026  
+- Built a responsive image gallery with dynamic API fetching and pagination.  
+- Designed clean UI with Tailwind CSS and smooth hover interactions.  
+- Implemented page-based navigation with optimized rendering.  
+
+🛠️ **Tech Stack:** React.js, Tailwind CSS, Axios, REST API  
+
+---
+### 💻 Other Projects
+
+- 🔹 [Weather App](https://github.com/shivamkrashish/Weather-App)  
+  → Real-time weather updates using API integration  
+
+- 🔹 [Tic Tac Toe Game](https://github.com/shivamkrashish/Tic-Tac-Toe-Game)  
+  → Classic game with full UI and win logic  
+
+- 🔹 Notes App  
+  → CRUD-based notes manager (React)  
+
+- 🔹 To-Do List App  
+  → Task manager with local storage  
+
+---
+### 🚀 More Projects Coming Soon...
+
+I’m continuously working on new ideas and improving my development skills.  
+Exciting projects will be added here soon 🚀
+--- 
 
 ## 📌 Roles & Achievements
 
