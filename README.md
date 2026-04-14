@@ -70,18 +70,20 @@
 ---
 ### 💻 Other Projects
 
+#### 🔹 [NoteVault – Smart Notes Management App](https://github.com/shivamkrashish/NoteVault)
+📅 2026  
+- Developed a modern notes management application for creating, editing, and organizing notes efficiently.  
+- Implemented CRUD functionality for seamless note creation, update, and deletion.  
+- Designed a clean and responsive UI for better user experience.  
+- Enabled structured note organization for improved productivity and accessibility.  
+
+🛠️ **Tech Stack:** React.js, JavaScript, Tailwind CSS, Local Storage / API  
+
 - 🔹 [Weather App](https://github.com/shivamkrashish/Weather-App)  
   → Real-time weather updates using API integration  
 
 - 🔹 [Tic Tac Toe Game](https://github.com/shivamkrashish/Tic-Tac-Toe-Game)  
-  → Classic game with full UI and win logic  
-
-- 🔹 Notes App  
-  → CRUD-based notes manager (React)  
-
-- 🔹 To-Do List App  
-  → Task manager with local storage  
-
+  → Classic game with full UI and win logic    
 ---
 ### 🚀 More Projects Coming Soon...
 
