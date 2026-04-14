@@ -79,6 +79,28 @@
 
 🛠️ **Tech Stack:** React.js, JavaScript, Tailwind CSS, Local Storage / API  
 
+#### 🔹 [Kirana Shop – E-commerce Website](https://github.com/shivamkrashish/Kirana-Shop)
+- Grocery e-commerce platform with product listing, cart system, and filtering  
+- Fully responsive UI with modern design  
+
+🛠️ Tech Stack: HTML, CSS, JavaScript / React, Tailwind CSS  
+
+#### 🔹 [Real-Time Crypto Tracker](https://github.com/shivamkrashish/Real-Time-Crypto-Tracker)
+- Tracks live cryptocurrency prices with real-time updates  
+- State management using Redux Toolkit  
+
+🛠️ Tech Stack: React.js, Redux Toolkit, API  
+
+#### 🔹 [Amazon Clone](https://github.com/shivamkrashish/Amazon-clone)
+- UI clone of Amazon with product listing and cart functionality  
+- Focus on responsive layout and user experience  
+
+🛠️ Tech Stack: HTML, CSS, JavaScript  
+#### 🔹 [Simon Says Game](https://github.com/shivamkrashish/Simon-Says-Game)
+- Interactive memory-based game with sound and animations  
+- Logic-based gameplay with increasing difficulty  
+🛠️ Tech Stack: JavaScript, HTML, CSS  
+
 - 🔹 [Weather App](https://github.com/shivamkrashish/Weather-App)  
   → Real-time weather updates using API integration  
 
